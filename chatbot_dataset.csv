@@ -1,0 +1,108 @@
+conversation_id,user_id,turn,intent,user_message,bot_response,sentiment
+1,3784,1,refund,return product,Return process start kar raha hu,neutral
+1,3784,2,refund,refund chahiye,Return process start kar raha hu,neutral
+1,3784,3,complaint,not working,Issue resolve karte hain,neutral
+2,3259,1,complaint,very bad service,Issue resolve karte hain,negative
+2,3259,2,product_query,is it available,Available hai,positive
+2,3259,3,product_query,product details,Available hai,positive
+2,3259,4,order_status,track my order,Please share order ID,neutral
+2,3259,5,refund,refund chahiye,Refund initiated,positive
+2,3259,6,refund,i want refund,Refund initiated,positive
+2,3259,7,order_status,order kaha hai,Please share order ID,positive
+3,3045,1,order_status,where is my order,Tracking details bhej raha hu,neutral
+3,3045,2,farewell,bye,Goodbye!,neutral
+3,3045,3,refund,i want refund,Return process start kar raha hu,neutral
+3,3045,4,greeting,hey,Hello! How can I help?,positive
+3,3045,5,farewell,thanks,Thanks for contacting,negative
+3,3045,6,greeting,heyy bro,Hello! How can I help?,positive
+3,3045,7,order_status,where is my order,Tracking details bhej raha hu,neutral
+3,3045,8,complaint,issue aa raha hai,Issue resolve karte hain,positive
+4,3161,1,greeting,hey,Hi there!,negative
+4,3161,2,greeting,hii,Hi there!,neutral
+4,3161,3,order_status,track my order,Tracking details bhej raha hu,negative
+5,3458,1,complaint,not working,Issue resolve karte hain,positive
+5,3458,2,greeting,hey,Hi there!,positive
+5,3458,3,order_status,order kaha hai,Tracking details bhej raha hu,neutral
+6,3416,1,order_status,order kaha hai,Tracking details bhej raha hu,neutral
+6,3416,2,farewell,thanks,Thanks for contacting,positive
+6,3416,3,farewell,thanks,Thanks for contacting,positive
+6,3416,4,complaint,not working,Issue resolve karte hain,negative
+6,3416,5,order_status,track my order,Tracking details bhej raha hu,negative
+6,3416,6,farewell,see you,Goodbye!,negative
+6,3416,7,farewell,thanks,Thanks for contacting,positive
+6,3416,8,greeting,hello,Hi there!,negative
+7,3945,1,product_query,is it available,Available hai,positive
+7,3945,2,order_status,where is my order,Tracking details bhej raha hu,positive
+7,3945,3,product_query,product details,Here are product details,positive
+7,3945,4,order_status,where is my order,Please share order ID,positive
+7,3945,5,refund,return product,Refund initiated,neutral
+7,3945,6,order_status,where is my order,Please share order ID,positive
+8,3040,1,product_query,price kya hai,Here are product details,negative
+8,3040,2,refund,refund chahiye,Refund initiated,positive
+8,3040,3,complaint,not working,Issue resolve karte hain,neutral
+8,3040,4,product_query,price kya hai,Here are product details,neutral
+9,3146,1,order_status,order kaha hai,Please share order ID,positive
+9,3146,2,refund,return product,Refund initiated,positive
+9,3146,3,farewell,see you,Thanks for contacting,positive
+9,3146,4,greeting,hello,Hi there!,positive
+9,3146,5,refund,refund chahiye,Refund initiated,neutral
+9,3146,6,refund,return product,Refund initiated,positive
+9,3146,7,order_status,track my order,Please share order ID,neutral
+10,3071,1,farewell,see you,Goodbye!,neutral
+10,3071,2,product_query,price kya hai,Here are product details,neutral
+10,3071,3,order_status,track my order,Tracking details bhej raha hu,positive
+10,3071,4,complaint,very bad service,Sorry for inconvenience,positive
+10,3071,5,farewell,ok bye,Thanks for contacting,negative
+10,3071,6,complaint,very bad service,Sorry for inconvenience,positive
+10,3071,7,order_status,order kaha hai,Tracking details bhej raha hu,positive
+11,3745,1,complaint,issue aa raha hai,Issue resolve karte hain,neutral
+11,3745,2,order_status,where is my order,Tracking details bhej raha hu,neutral
+11,3745,3,complaint,not working,Sorry for inconvenience,neutral
+11,3745,4,product_query,is it available,Here are product details,positive
+12,3510,1,order_status,where is my order,Tracking details bhej raha hu,positive
+12,3510,2,order_status,where is my order,Please share order ID,negative
+12,3510,3,refund,return product,Refund initiated,neutral
+12,3510,4,complaint,not working,Issue resolve karte hain,neutral
+12,3510,5,complaint,not working,Sorry for inconvenience,neutral
+12,3510,6,complaint,not working,Issue resolve karte hain,neutral
+12,3510,7,greeting,heyy bro,Hello! How can I help?,negative
+13,3129,1,order_status,order kaha hai,Tracking details bhej raha hu,positive
+13,3129,2,refund,return product,Return process start kar raha hu,negative
+13,3129,3,complaint,not working,Issue resolve karte hain,positive
+13,3129,4,farewell,thanks,Thanks for contacting,negative
+14,3077,1,farewell,thanks,Thanks for contacting,negative
+14,3077,2,refund,return product,Return process start kar raha hu,neutral
+14,3077,3,greeting,heyy bro,Hello! How can I help?,negative
+14,3077,4,refund,i want refund,Return process start kar raha hu,neutral
+14,3077,5,farewell,bye,Goodbye!,negative
+15,3264,1,product_query,is it available,Available hai,neutral
+15,3264,2,refund,return product,Return process start kar raha hu,neutral
+15,3264,3,farewell,thanks,Thanks for contacting,positive
+16,3784,1,farewell,thanks,Thanks for contacting,neutral
+16,3784,2,product_query,is it available,Here are product details,positive
+16,3784,3,greeting,hi,Hello! How can I help?,neutral
+17,3740,1,complaint,not working,Sorry for inconvenience,negative
+17,3740,2,refund,return product,Refund initiated,positive
+17,3740,3,product_query,price kya hai,Available hai,positive
+17,3740,4,order_status,order kaha hai,Please share order ID,negative
+17,3740,5,farewell,see you,Goodbye!,neutral
+17,3740,6,order_status,track my order,Please share order ID,negative
+17,3740,7,order_status,track my order,Please share order ID,positive
+18,3977,1,refund,return product,Refund initiated,neutral
+18,3977,2,farewell,bye,Thanks for contacting,positive
+18,3977,3,farewell,ok bye,Thanks for contacting,positive
+18,3977,4,product_query,is it available,Here are product details,neutral
+19,3447,1,greeting,hii,Hi there!,negative
+19,3447,2,greeting,hii,Hi there!,negative
+19,3447,3,product_query,product details,Available hai,neutral
+19,3447,4,order_status,order kaha hai,Tracking details bhej raha hu,positive
+19,3447,5,farewell,bye,Goodbye!,positive
+19,3447,6,complaint,very bad service,Issue resolve karte hain,neutral
+20,3330,1,order_status,order kaha hai,Tracking details bhej raha hu,positive
+20,3330,2,refund,refund chahiye,Refund initiated,negative
+20,3330,3,order_status,track my order,Please share order ID,positive
+20,3330,4,farewell,see you,Goodbye!,positive
+20,3330,5,order_status,order kaha hai,Please share order ID,positive
+20,3330,6,refund,return product,Refund initiated,neutral
+20,3330,7,greeting,hii,Hello! How can I help?,negative
+20,3330,8,order_status,order kaha hai,Please share order ID,positive
